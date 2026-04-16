@@ -3,6 +3,7 @@
  * Plugin Name:        Template Jump
  * Plugin URI:         https://github.com/littleroomstudio/template-jump
  * GitHub Plugin URI:  https://github.com/littleroomstudio/template-jump
+ * Primary Branch:     main
  * Description:        Adds an Edit Template link to the WordPress admin bar for block themes.
  * Version:            1.0.0
  * Author:             Jason Cosper
